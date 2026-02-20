@@ -1,4 +1,4 @@
-# Awesome Lattice Reduction and Shortest Vector Problem Resources
+# Awesome Machine Learning for Crypto(Lattice Problem)
 
 We would like to maintain a list of resources that focus on solving lattice problems, particularly the Shortest Vector Problem (SVP) and related tasks like lattice basis reduction, utilizing classical algorithms, heuristic methods, and modern machine learning technologies.
 
