@@ -1,14 +1,8 @@
-好的，遵照您的要求，我将为您提供的参考文献列表，参照“Awesome Machine Learning for Combinatorial Optimization Resources”的格式，生成一个专注于 **格基约简与最短向量问题 (Lattice Reduction and Shortest Vector Problem)** 的 Markdown 文档。
-
----
-
 # Awesome Lattice Reduction and Shortest Vector Problem Resources
 
 We would like to maintain a list of resources that focus on solving lattice problems, particularly the Shortest Vector Problem (SVP) and related tasks like lattice basis reduction, utilizing classical algorithms, heuristic methods, and modern machine learning technologies.
 
-*Maintained by [Your Name/Organization]. We thank all the researchers who have contributed to this field.*
-
-*This list is inspired by the structure of the [Awesome-ML4CO](https://github.com/Thinklab-SJTU/awesome-ml4co) project.*
+*Maintained by Jinchen Yu, Wenzheng Pan, Xinhao Zheng, Yuhao Zhang, Junchi Yan. We thank all the researchers who have contributed to this field.*
 
 ## [Content](#content)
 
